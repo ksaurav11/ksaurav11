@@ -1,13 +1,12 @@
 [![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://ksaurav11.io)
 <h1 align="center">Hi 👋, I'm Kumar Saurav</h1>
 <h3 align="center">A determined Java backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXehDbHT4Xx_vQVUW30EQP_z3ymPCjQNiBsg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksaurav11&label=Profile%20views&color=0e75b6&style=flat" alt="ksaurav11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@kumar_saurav_" target="blank"><img src="https://img.shields.io/twitter/follow/@kumar_saurav_?logo=twitter&style=for-the-badge" alt="@kumar_saurav_" /></a> </p>
 
-- 🔭 I’m currently working on **Bus Ticket Reservation System**
+- 🔭 I’m currently working on [Online Food Delivery App](https://github.com/ksaurav11/Online-food-delivery-app)
 
 - 🌱 I’m currently learning **JAVA,SQL**
 
@@ -17,7 +16,7 @@
 
 - 📫 How to reach me **vermasaurav831@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14yKAbsA320BZOygjk8DGH9AQcwnyH9A-/view](https://drive.google.com/file/d/14yKAbsA320BZOygjk8DGH9AQcwnyH9A-/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CNoWcOjGSRKizz48CsWg4cmrIC3BVOe-/view?usp=sharing](https://drive.google.com/file/d/1CNoWcOjGSRKizz48CsWg4cmrIC3BVOe-/view?usp=sharing)
 
 - ⚡ Fun fact **I can recurve my ear**
 
