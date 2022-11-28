@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **JAVA,SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ksaurav11/ksaurav11.github.io](https://github.com/ksaurav11/ksaurav11.github.io)
+- 👨‍💻 All of my projects are available at [https://ksaurav11.github.io/](https://ksaurav11.github.io/)
 
 - 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **vermasaurav831@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yp39wax64-KuPHNpC1-LxK3yxmTc2Y4S/view?usp=sharing](https://drive.google.com/file/d/1bD835A0TVsd7c3MliYnPdY6YC_BG51wr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yp39wax64-KuPHNpC1-LxK3yxmTc2Y4S/view?usp=sharing](https://drive.google.com/file/d/1yp39wax64-KuPHNpC1-LxK3yxmTc2Y4S/view?usp=sharing)
 
 - ⚡ Fun fact **I can recurve my ear**
 
